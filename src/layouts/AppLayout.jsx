@@ -127,7 +127,7 @@ export function AppLayout({ page, children }) {
         <div className="flex items-center justify-between gap-3 px-4 py-3 lg:block">
           <Link href="/dashboard" className="sidebar-brand">
             <span className="sidebar-brand-mark"><BarChart3 size={17} /></span>
-            BankOS
+            VaultWise
           </Link>
 
           <div className="workspace-card">
